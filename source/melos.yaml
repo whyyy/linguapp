@@ -1,0 +1,6 @@
+name: linguapp
+sdkPath: .fvm/flutter_sdk
+
+packages:
+  - packages/**
+  - application/
